@@ -1,5 +1,6 @@
 # dependencies
 dylanlovell/node_modules
+/node_modules
 
 # testing
 dylanlovell/coverage
