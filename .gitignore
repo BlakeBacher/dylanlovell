@@ -1,0 +1,19 @@
+# dependencies
+dylanlovell/node_modules
+
+# testing
+dylanlovell/coverage
+
+# production
+dylanlovell/build
+
+# misc
+dylanlovell/.DS_Store
+dylanlovell/.env.local
+dylanlovell/.env.development.local
+dylanlovell/.env.test.local
+dylanlovell/.env.production.local
+
+dylanlovell/npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
